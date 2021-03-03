@@ -8,3 +8,7 @@
         repo: context.repo.repo,
         body: '👋 Thanks for reporting!'
     })
+
+
+- name: Super-Linter
+  uses: github/super-linter@v3.14.0
